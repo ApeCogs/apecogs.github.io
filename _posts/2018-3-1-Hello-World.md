@@ -3,8 +3,8 @@ layout: post
 title: First!
 ---
 
-So I came accross Jekyll and found it was the perfect way to setup a quick blog to jot down some ideas, lessons learned and to serve as the forum for all my thoughts on AI and self-driving cars that drives my friends and family nuts, at every single dinner...
+So I came accross Jekyll and found it was the perfect way to setup a quick blog to jot down some ideas, lessons learned and to serve as the forum for all my thoughts on AI and self-driving cars.
 
-For now, this is just for me.
+For now, this blog is just for me.
 
 First !
