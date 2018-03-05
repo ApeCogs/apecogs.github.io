@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm a dynamic technology enthousiast that is always looking to optimize and automate.
+Buy me a coffee and let's talk about AI, Self-Driving Cars or how to connect a toaster to the internet
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[gabriel@gvlnetworks.com](mailto:gabriel@gvlnetworks.com)
