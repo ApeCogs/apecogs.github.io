@@ -12,7 +12,7 @@
 
   I had forgotten that the default behaviour of the ls command did not include color so i added the following alias to .zshrc
 
-      ```bash
+      `bash
       ## Colorize the ls output ##
       alias ls='ls --color=auto'
 
@@ -21,7 +21,7 @@
 
       ## Show hidden files ##
       alias l.='ls -d .* --color=auto'
-      ```
+      `
 
 4. Configure zshell theme
 
